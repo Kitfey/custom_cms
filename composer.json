@@ -1,0 +1,25 @@
+{
+    "name": "ira/cms",
+    "description": "phpmailer for testing cms email system",
+    "require-dev": {
+        "phpmailer/phpmailer": "^6.1"
+    },
+  "autoload": {
+      "classmap": [
+        "classes"
+      ]
+      
+    },
+  
+  
+  
+    "authors": [
+        {
+            "name": "Ira",
+            "email": "irynakyrylenko1@gmail.com"
+        }
+    ],
+    "require": {
+        "pusher/pusher-php-server": "^4.1"
+    }
+}
